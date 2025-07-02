@@ -2,41 +2,5 @@
   "Campaign 1": {
     "url": "https://example.com/c1?ref={aff_id}",
     "desc": "Sign up & earn ₹50 instantly"
-  },
-  "Campaign 2": {
-    "url": "https://example.com/c2?ref={aff_id}",
-    "desc": "Cashback on recharge"
-  },
-  "Campaign 3": {
-    "url": "https://example.com/c3?ref={aff_id}",
-    "desc": "Bonus for new install"
-  },
-  "Campaign 4": {
-    "url": "https://example.com/c4?ref={aff_id}",
-    "desc": "Survey and earn ₹20"
-  },
-  "Campaign 5": {
-    "url": "https://example.com/c5?ref={aff_id}",
-    "desc": "Bill pay reward"
-  },
-  "Campaign 6": {
-    "url": "https://example.com/c6?ref={aff_id}",
-    "desc": "Earn ₹30 on signup"
-  },
-  "Campaign 7": {
-    "url": "https://example.com/c7?ref={aff_id}",
-    "desc": "Instant bonus after login"
-  },
-  "Campaign 8": {
-    "url": "https://example.com/c8?ref={aff_id}",
-    "desc": "Reward for trying demo"
-  },
-  "Campaign 9": {
-    "url": "https://example.com/c9?ref={aff_id}",
-    "desc": "50% cashback on spend"
-  },
-  "Campaign 10": {
-    "url": "https://example.com/c10?ref={aff_id}",
-    "desc": "Install now, earn cashback"
   }
 }
